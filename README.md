@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erich</h1>
 
 <h4 align="center">
-  <a href="https://redleg.dev" target="blank">
+  <a href="https://kemmekcorp.com" target="blank">
     <img src="https://github.com/erichmccartney/home/blob/main/images/kemmek-icon.jpg" alt="erichmccartney" height="100"/>    </a>
 </h4>
 
