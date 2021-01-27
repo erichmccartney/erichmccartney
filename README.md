@@ -2,7 +2,7 @@
 
 <h4 align="center">
   <a href="https://redleg.dev" target="blank">
-    <img src="https://mattgwagner.com/images/Red%20Leg%20Dev%20Logo.png" alt="mattgwagner" height="100"/>    </a>
+    <img src="https://github.com/erichmccartney/home/blob/main/images/kemmek-icon.jpg" alt="erichmccartney" height="100"/>    </a>
 </h4>
 
 <h3 align="center">A software evangilist and sailing enthusiast</h3>
