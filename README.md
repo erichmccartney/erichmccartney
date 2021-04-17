@@ -16,4 +16,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<erichmccartney>&hide=java,html,css&theme=radical)](https://github.com/erichmccartney/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erichmccartney)](https://github.com/erichmccartney/github-readme-stats)
+
 [![Erich's GitHub stats](https://github-readme-stats.vercel.app/api?username=<erichmccartney>&theme=radical)](https://github.com/erichmccartney/github-readme-stats)
