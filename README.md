@@ -14,6 +14,10 @@
 
 ## &#x1f4c8; My GitHub Stats
 
+<p><img src="https://komarev.com/ghpvc/?username=erichmccartney&label=Profile%20views&color=0e75b6&style=flat" alt="erichmccartney"/><br></p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erichmccartney&theme=dark)](https://github.com/erichmccartney/github-readme-stats)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=erichmccartney&theme=dark)](https://github.com/erichmccartney/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=erichmccartney&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
