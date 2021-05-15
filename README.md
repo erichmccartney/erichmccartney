@@ -18,6 +18,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erichmccartney&theme=dark)](https://github.com/erichmccartney/github-readme-stats)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=erichmccartney&theme=dark)](https://github.com/erichmccartney/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=erichmccartney&theme=dark&langs_count=8)](https://github.com/erichmccartney/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=erichmccartney&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
