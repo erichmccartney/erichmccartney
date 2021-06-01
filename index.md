@@ -1,6 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/erichmccartney/erichmccartney/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# About Me
+
+With 20+ years of experience as a multifaceted leader in project management and growing businesses through organizational leadership & innovative technology, I have been integral to technology development through data-driven solutions. I am skilled in software development, as well as resource management, which I have proven through an advanced career in networking, operations, & executing digital strategies.
+Some of my key achievements include:
+
+✅ Created an advanced networking framework utilizing technology resources such as LinkedIn, producing a $62.5M portfolio of projects with new clients within the first 90 days of hire
+
+✅ Created and executed unique business solutions, focusing on the SMB market, strengthening performance, and increasing efficiency
+
+✅ Led a unit of 500+ Soldiers, leading in austere environments, providing direct guidance to supervisors accountable for all operations, including risk, personnel, training, maintenance, supply chain, and execution
+
+✅ Directly governed all aspects of projects, negotiating, developing SoW, projecting charters, bidding, monitoring quality assurance processes, and creating budgets encompassing the entire venture for both government and private projects, growing the company from 15 employees with $1.3M revenue to 45 employees with $4M revenue
+
+✅ Prepared working models to enhance project scheduling and resource management for 20+ simultaneous projects, establishing SoWs, project management plans, and technical specifications
+
+I would like to speak with like-minded professionals. Please contact me through this profile if you wish to connect
+
+## Career
+
+wip...
+
+## Hobbies
+
+wip...
+
+
+
+
+
+
+
+ You can use the [editor on GitHub](https://github.com/erichmccartney/erichmccartney/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
