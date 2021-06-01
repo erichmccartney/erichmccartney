@@ -1,5 +1,7 @@
 ## Welcome
 
+![Git Hub Avatar] (site.github.owner_gravatar_url)
+
 # About Me
 
 With 20+ years of experience as a multifaceted leader in project management and growing businesses through organizational leadership & innovative technology, I have been integral to technology development through data-driven solutions. I am skilled in software development, as well as resource management, which I have proven through an advanced career in networking, operations, & executing digital strategies.
